@@ -1,4 +1,4 @@
-$GitHubUsername='courtneyhussein'
+$GitHubUsername= read-host "Please enter your name"
 $PracticeRepoDir='C:\Users\Hussein\Desktop\lcode\projects\AzureUnit\power_shell'
 $CommitMessage='auto committed from auto-committing-setup.ps1!'
 
